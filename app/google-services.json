@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337183897997",
+    "project_id": "app-9b071550",
+    "storage_bucket": "app-9b071550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337183897997:android:f37037399b1d681b37a5c4",
+        "android_client_info": {
+          "package_name": "com.nightnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhtk-Kyp_5qlOks2BpdWNbl1YjrXLBSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

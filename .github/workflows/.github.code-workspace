@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../.gradle"
+		},
+		{
+			"path": "../../.idea"
+		},
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"path": "../../app"
+		},
+		{
+			"path": "../../build"
+		},
+		{
+			"path": "../../ThreadEngine"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+# Android Studio
+.idea/
+.gradle/
+*.iml
+
+# Build output
+/build/
+app/build/
+*.apk
+*.dex
+*.jar
+
+# Misc
+*.log
+*.bin
+*.lock
+*.keystream
+*.arsc.flat

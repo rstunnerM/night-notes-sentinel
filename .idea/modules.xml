@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ThreadEngine.iml" filepath="$PROJECT_DIR$/.idea/ThreadEngine.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NightNotes_Sentinel_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/NightNotes_Sentinel_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightNotes_Sentinel_Project.app.unitTest.iml" />
+>>>>>>> 0673cb1 (Current build-doesnt work)
     </modules>
   </component>
 </project>
